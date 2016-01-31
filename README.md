@@ -1,4 +1,4 @@
-Welcome to PHP-Caches's Issue Tracker!
+Do NOT use this issue tracker. USE https://github.com/php-cache/cache instead
 ================================
 
 [![Join the chat at https://gitter.im/php-cache/issues](https://badges.gitter.im/php-cache/issues.svg)](https://gitter.im/php-cache/issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
