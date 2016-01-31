@@ -1,7 +1,7 @@
-Do NOT use this issue tracker. USE https://github.com/php-cache/cache instead
+Welcome to PHP-Caches's Issue Tracker!
 ================================
 
-[![Join the chat at https://gitter.im/php-cache/issues](https://badges.gitter.im/php-cache/issues.svg)](https://gitter.im/php-cache/issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/php-cache/cache](https://badges.gitter.im/php-cache/cache.svg)](https://gitter.im/php-cache/cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The issue tracker of this repository collects the issues of all the [PHP-Cache]
 components. Head over to [Issues] to display and create issues. You could also have a look on the overivew
